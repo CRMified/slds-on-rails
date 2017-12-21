@@ -1,0 +1,6 @@
+$static-assets-path: 'salesforce-lightning-design-system/assets';
+$static-icon-path: $static-assets-path + '/icons';
+$static-image-path: $static-assets-path + '/images';
+$static-font-path: $static-assets-path + '/fonts/webfonts';
+
+@import 'salesforce-lightning-design-system/scss/index';
